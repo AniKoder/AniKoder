@@ -1,4 +1,4 @@
-##Hey, I'm Anirudh 
+## Hey, I'm Anirudh 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirudhraghavaned@gmail.com) 
